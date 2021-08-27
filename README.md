@@ -1,4 +1,4 @@
-# SlickQua Form Designer
+# Quasar Form Builder
 
 The product named SlickQua, it's a Quasar based form designer, its mainly feature we can described below:
 
